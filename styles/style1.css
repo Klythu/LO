@@ -1,0 +1,137 @@
+@font-face { 
+    font-family: "GilroyBold";
+    src: url("../fonts/GilroyBold/GilroyBold.eot");
+    src: url("../fonts/GilroyBold/GilroyBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GilroyBold/GilroyBold.woff") format("woff"),
+    url("../fonts/GilroyBold/GilroyBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face { 
+    font-family: "GilroyMedium";
+    src: url("../fonts/GilroyMedium/GilroyMedium.eot");
+    src: url("../fonts/GilroyMedium/GilroyMedium.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GilroyMedium/GilroyMedium.woff") format("woff"),
+    url("../fonts/GilroyMedium/GilroyMedium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face { 
+    font-family: "GilroySemiBold";
+    src: url("../fonts/GilroySemiBold/GilroySemiBold.eot");
+    src: url("../fonts/GilroySemiBold/GilroySemiBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GilroySemiBold/GilroySemiBold.woff") format("woff"),
+    url("../fonts/GilroySemiBold/GilroySemiBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 600;
+}
+header{
+    display: flex;
+    padding-top:40px;
+    padding-bottom:40px;
+}
+a{
+    text-decoration: none;
+    padding: 15px;
+    color: #000000;
+    size: 10px;
+}
+.offerblock{
+    display: flex;
+    padding-top:44px;
+    padding-bottom:162px;
+    
+}
+.playerbox{
+    display: flex;
+    margin-left: 30px;
+}
+nav{
+    display: flex;
+    margin-left: 333px;
+    font-family: "GilroySemiBold";
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.4px;
+}
+.logotext1{
+    font-family: "GilroyBold";
+    font-style: normal;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.13px;
+}
+.logotext2{
+    color: #ec8600;
+    font-family: "GilroyBold";
+    font-style: normal;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.13px;
+}
+img{
+    object-fit: contain;
+}
+.pic{
+    margin: 10px;
+}
+.logo{
+    display: flex;
+    
+    margin-left: 16px;
+}
+.home{
+    color: #ec8600;
+}
+body{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1319px;
+}
+.offerlabel{
+    padding: 30px; 
+    font-family: "GilroyBold";
+    font-style: normal;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 70.37px;
+}
+.offertext{
+    color: #888888;
+    font-family: "GilroyMedium";
+    font-style: normal;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 23.44px;
+    margin-bottom: 32px;
+    margin-left: 30px;
+}
+.galary{
+    padding-top:97px;
+    padding-bottom:97px;
+}
+.playerboxanotation{
+    color: gray;
+    size: 14px;
+    margin-left: 71px;
+    font-family: "GilroyBold";
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 17.58px;
+}
+button{
+    color: white ;
+    background-color: #ec8600;
+    border-radius: 50px;
+    width: 140px;
+    height: 50px;
+    border:none;
+    text-align: top;
+    font-family: "GilroyBold";
+    font-style: normal;
+    font-size: 10px;
+    font-weight: normal;
+    line-height: 17.58px;
+}
